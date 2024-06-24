@@ -6,8 +6,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/aruvishal-patel-94265019b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://twitter.com/aruvishalpatel?lang=en"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <div align=" center">
   <a href="https://github.com/aruvishalpatel"><img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></a>
